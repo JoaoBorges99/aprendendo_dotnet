@@ -1,0 +1,15 @@
+c:\codec\notas_alunos\bin\Debug\net9.0\notas_alunos.exe
+c:\codec\notas_alunos\bin\Debug\net9.0\notas_alunos.deps.json
+c:\codec\notas_alunos\bin\Debug\net9.0\notas_alunos.runtimeconfig.json
+c:\codec\notas_alunos\bin\Debug\net9.0\notas_alunos.dll
+c:\codec\notas_alunos\bin\Debug\net9.0\notas_alunos.pdb
+c:\codec\notas_alunos\obj\Debug\net9.0\notas_alunos.GeneratedMSBuildEditorConfig.editorconfig
+c:\codec\notas_alunos\obj\Debug\net9.0\notas_alunos.AssemblyInfoInputs.cache
+c:\codec\notas_alunos\obj\Debug\net9.0\notas_alunos.AssemblyInfo.cs
+c:\codec\notas_alunos\obj\Debug\net9.0\notas_alunos.csproj.CoreCompileInputs.cache
+c:\codec\notas_alunos\obj\Debug\net9.0\notas_alunos.sourcelink.json
+c:\codec\notas_alunos\obj\Debug\net9.0\notas_alunos.dll
+c:\codec\notas_alunos\obj\Debug\net9.0\refint\notas_alunos.dll
+c:\codec\notas_alunos\obj\Debug\net9.0\notas_alunos.pdb
+c:\codec\notas_alunos\obj\Debug\net9.0\notas_alunos.genruntimeconfig.cache
+c:\codec\notas_alunos\obj\Debug\net9.0\ref\notas_alunos.dll
