@@ -1,0 +1,14 @@
+c:\codec\for_if_else\bin\Debug\net9.0\for_if_else.exe
+c:\codec\for_if_else\bin\Debug\net9.0\for_if_else.deps.json
+c:\codec\for_if_else\bin\Debug\net9.0\for_if_else.runtimeconfig.json
+c:\codec\for_if_else\bin\Debug\net9.0\for_if_else.dll
+c:\codec\for_if_else\bin\Debug\net9.0\for_if_else.pdb
+c:\codec\for_if_else\obj\Debug\net9.0\for_if_else.GeneratedMSBuildEditorConfig.editorconfig
+c:\codec\for_if_else\obj\Debug\net9.0\for_if_else.AssemblyInfoInputs.cache
+c:\codec\for_if_else\obj\Debug\net9.0\for_if_else.AssemblyInfo.cs
+c:\codec\for_if_else\obj\Debug\net9.0\for_if_else.csproj.CoreCompileInputs.cache
+c:\codec\for_if_else\obj\Debug\net9.0\for_if_else.dll
+c:\codec\for_if_else\obj\Debug\net9.0\refint\for_if_else.dll
+c:\codec\for_if_else\obj\Debug\net9.0\for_if_else.pdb
+c:\codec\for_if_else\obj\Debug\net9.0\for_if_else.genruntimeconfig.cache
+c:\codec\for_if_else\obj\Debug\net9.0\ref\for_if_else.dll
