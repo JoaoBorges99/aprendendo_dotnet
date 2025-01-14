@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "calcular_gpa/1.0.0": {
+        "runtime": {
+          "calcular_gpa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calcular_gpa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

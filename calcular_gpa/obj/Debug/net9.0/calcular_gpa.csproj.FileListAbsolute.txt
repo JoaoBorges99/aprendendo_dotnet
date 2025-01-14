@@ -1,0 +1,14 @@
+c:\codec\calcular_gpa\bin\Debug\net9.0\calcular_gpa.exe
+c:\codec\calcular_gpa\bin\Debug\net9.0\calcular_gpa.deps.json
+c:\codec\calcular_gpa\bin\Debug\net9.0\calcular_gpa.runtimeconfig.json
+c:\codec\calcular_gpa\bin\Debug\net9.0\calcular_gpa.dll
+c:\codec\calcular_gpa\bin\Debug\net9.0\calcular_gpa.pdb
+c:\codec\calcular_gpa\obj\Debug\net9.0\calcular_gpa.GeneratedMSBuildEditorConfig.editorconfig
+c:\codec\calcular_gpa\obj\Debug\net9.0\calcular_gpa.AssemblyInfoInputs.cache
+c:\codec\calcular_gpa\obj\Debug\net9.0\calcular_gpa.AssemblyInfo.cs
+c:\codec\calcular_gpa\obj\Debug\net9.0\calcular_gpa.csproj.CoreCompileInputs.cache
+c:\codec\calcular_gpa\obj\Debug\net9.0\calcular_gpa.dll
+c:\codec\calcular_gpa\obj\Debug\net9.0\refint\calcular_gpa.dll
+c:\codec\calcular_gpa\obj\Debug\net9.0\calcular_gpa.pdb
+c:\codec\calcular_gpa\obj\Debug\net9.0\calcular_gpa.genruntimeconfig.cache
+c:\codec\calcular_gpa\obj\Debug\net9.0\ref\calcular_gpa.dll
